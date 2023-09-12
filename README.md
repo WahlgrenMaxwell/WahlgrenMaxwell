@@ -19,9 +19,9 @@ And, of course, the cloud is not just up in the sky. I've ventured into the vast
 Whether you're passionate about coding, have a project in mind, or just want to chat about the latest tech trends, I'm all ears! Let's forge connections, share knowledge, and build amazing things together. 
 
 <p align="left">
-<a href="http://twitter.com/MaxWahlgren" target="blank"><img align="center" src="https://icons8.com/icon/6Fsj3rv2DCmG/twitterx" title = "Twitter" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/max-wahlgren" target="blank"><img align="center" src="https://icons8.com/icon/447/linkedin" alt="" height="30" /></a>
-<a href="http://instagram.com/amaxwahlgren" target="blank"><img align="center" src="https://icons8.com/icon/32292/instagram" alt="" height="30" /></a>
+  <a href="http://twitter.com/MaxWahlgren" target="blank"><img align="center" src="https://github.com/WahlgrenMaxwell/WahlgrenMaxwell/blob/main/Images/Socials/icons8-twitter-50.png" title = "Twitter" alt="Twitter" height="30" /></a>
+  <a href="http://linkedin.com/in/max-wahlgren" target="blank"><img align="center" src="https://github.com/WahlgrenMaxwell/WahlgrenMaxwell/blob/main/Images/Socials/icons8-linkedin-50.png" alt="" height="30" /></a>
+  <a href="http://instagram.com/amaxwahlgren" target="blank"><img align="center" src="https://github.com/WahlgrenMaxwell/WahlgrenMaxwell/blob/main/Images/Socials/icons8-instagram-50.png" alt="" height="30" /></a>
 </p>
 
 Stay curious and happy coding! 💻
